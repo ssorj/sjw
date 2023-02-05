@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:ssorj/transom.git
 	branch = main
-	commit = 3ad09f2b96cea3e10c05a83c83b8708f3a21d373
-	parent = b3b9d6b2ee51cc79beea39898d4fa4d9781b0f4f
+	commit = df5b8e104c89701f1b1ef26ed626bcfa949ddca4
+	parent = 6fd3eb9da45959e229a8808fbdb20847aa1f08a3
 	method = merge
 	cmdver = 0.4.5
