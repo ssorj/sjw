@@ -1,8 +1,12 @@
 ---
 title: Sophie and Justin's wedding
+extra_headers: <link rel="stylesheet" href="/index.css"/>
 ---
 
-<div style="margin: 1em;">Sophie and Justin are getting married</div>
-<div style="margin: 1em;">September 2nd, 2023</div>
-<div style="margin: 1em;">Lisbon, New Hampshire</div>
-<div style="height: 33vh;"></div>
+<div>
+  <img src="/images/sj.jpeg" width="260"/>
+  <div>Sophie and Justin are getting married</div>
+  <div>September 2nd, 2023</div>
+  <div>Lisbon, New Hampshire</div>
+  <div><a href="/info.html">More information</a></div>
+</div>
