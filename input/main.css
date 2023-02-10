@@ -18,3 +18,19 @@
  * under the License.
  *
  */
+
+body {
+    width: 30em;
+    margin: 2em auto;
+    background-color: #f1e3d3;
+    font-family: "Manrope";
+}
+
+h1, h2, h3, h4 {
+    font-family: "Arima";
+}
+
+a {
+    text-decoration: none;
+    color: #a11d35;
+}
