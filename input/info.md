@@ -2,6 +2,11 @@
 
 # More information
 
+* [Airports](#airports)
+* [Lodging](#lodging)
+* [Restaurants and breweries](#restaurants-and-breweries)
+* [Activities](#activities)
+
 ## Airports
 
 ### Manchester (MHT)
@@ -33,3 +38,13 @@ Distance: 156 miles, 2.5-3 hours
 [Directions to venue]()
 
 [Directions to Hampton Inn]()
+
+## Lodging
+
+{{lipsum()}}
+
+## Restaurants and breweries
+
+## Activities
+
+{{lipsum()}}
