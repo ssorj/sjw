@@ -19,11 +19,19 @@
  *
  */
 
+:root {
+    --fg-color-light: #a11d4b;
+    --fg-color-dark: #5d7348;
+    --bg-color-light: #f1e3d3;
+    --bg-color-dark: #d4c5c2;
+    background-color: var(--bg-color-dark);
+}
+
 body {
     width: 30em;
     margin: 2em auto;
     padding: 2em;
-    background-color: #f1e3d3;
+    background-color: var(--bg-color-light);
     font-family: "Manrope";
 }
 
@@ -33,5 +41,10 @@ h1, h2, h3, h4 {
 
 a {
     text-decoration: none;
-    color: #a11d35;
+    color: var(--fg-color-light);
+}
+
+p:first-child {
+    margin-top: 0;
+    margin-bottom: 0;
 }

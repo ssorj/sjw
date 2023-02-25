@@ -41,13 +41,24 @@ Distance: 156 miles, 2.5-3 hours
 
 ## Lodging
 
-### Bishop Farm
+The Hampton Inn in Littleton, NH is a 10-minute drive from our wedding
+venue.  You will receive 10% off standard rooms (1 king bed or 2 queen
+beds).
 
-<p><a href="tel:+1 603-838-2474">603-838-2474</a></p>
+If booking online, use discount code 0560061264 (click special rates
+and enter under corporate accounts).
 
-[33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9)
+If booking by phone, mention the Desbiens/Ross Wedding.
 
-[Website](https://www.bishopfarm.com/)
+There are also several AirBnB and VRBO properties in the area.
+
+<!-- ### Bishop Farm -->
+
+<!-- <p><a href="tel:+1 603-838-2474">603-838-2474</a></p> -->
+
+<!-- [33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9) -->
+
+<!-- [Website](https://www.bishopfarm.com/) -->
 
 ### Hampton Inn Littleton
 
@@ -78,3 +89,5 @@ Distance: 156 miles, 2.5-3 hours
 [Website](http://www.schillingbeer.com/)
 
 ## Activities
+
+{{lipsum()}}

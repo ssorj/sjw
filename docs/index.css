@@ -33,6 +33,7 @@ body {
     font-family: "Arima";
     font-size: 15pt;
     font-weight: 500;
+    background-color: var(--bg-color-dark);
 }
 
 body > div {
@@ -40,8 +41,14 @@ body > div {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    background-color: var(--bg-color-light);
+    padding: 2em;
 }
 
 body > div > * {
     margin: 1em;
+}
+
+body > div > img {
+    padding: 2em 0;
 }
