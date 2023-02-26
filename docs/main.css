@@ -24,12 +24,17 @@
     --fg-color-dark: #5d7348;
     --bg-color-light: #f1e3d3;
     --bg-color-dark: #d4c5c2;
-    background-color: var(--bg-color-dark);
 }
 
 body {
-    width: 30em;
-    margin: 2em auto;
+    margin: 0;
+    padding: 1em;
+    background-color: var(--bg-color-dark);
+}
+
+body > div {
+    max-width: 30em;
+    margin: 0 auto;
     padding: 2em;
     background-color: var(--bg-color-light);
     font-family: "Manrope";
