@@ -10,7 +10,7 @@ title: Sophie and Justin's wedding
   <nav>
     <a href="?tab=airports" class="">Airports</a>
     <a href="?tab=lodging" class="">Lodging</a>
-    <a href="?tab=restaurants-and-breweries" class="">Restaurants and breweries</a>
+    <a href="?tab=dining" class="">Dining</a>
   </nav>
 
   <div id="airports" style="display: inherit;">
@@ -78,7 +78,7 @@ If booking by phone, mention the Desbiens/Ross Wedding.
 There are also several AirBnB and VRBO properties in the area.
 
   </div>
-  <div id="restaurants-and-breweries" style="display: none;">
+  <div id="dining" style="display: none;">
 
 ### Littleton Freehouse
 
