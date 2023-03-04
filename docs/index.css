@@ -47,11 +47,6 @@ body > div > * {
     text-align: center;
 }
 
-/* body > div img { */
-/*     padding: 1.5em 0; */
-/* } */
-
-body > div h1 {
-    font-size: 1.2em;
-    font-weight: 500;
+body > div > div:first-child {
+    font-size: 1.3em;
 }
