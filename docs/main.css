@@ -23,30 +23,30 @@
     --fg-color-light: #a11d4b;
     --fg-color-dark: #5d7348;
     --bg-color-light: #f1e3d3;
-    /* --bg-color-light: #f0ede9; */
-    --bg-color-dark: #f1e3d3;
-    /* --bg-color-dark: #d4c5c2; */
+    --bg-color-dark: #d4c5c2;
 }
 
 body {
     margin: 0;
     padding: 0;
-    background-color: var(--bg-color-dark);
+    background-color: var(--bg-color-light);
 }
 
 body > div {
     max-width: 30em;
     margin: 0 auto;
     padding: 2em;
-    background-color: var(--bg-color-light);
     font-family: "Manrope";
 }
 
 h1, h2, h3, h4 {
     font-family: "Arima";
-    font-weight: 600;
     position: relative;
     top: 3pt;
+}
+
+h1 {
+    font-weight: 500;
 }
 
 a {
@@ -65,6 +65,51 @@ ul.toc {
     padding: 0;
 }
 
+/* Intro page */
+
+html.intro {
+    height: 100vh;
+}
+
+html.intro > body {
+    min-height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+html.intro > body > div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--bg-color-light);
+    padding: 1em;
+    font-family: "Arima";
+    font-size: 15pt;
+    font-weight: 500;
+}
+
+html.intro > body > div > * {
+    margin: 1em;
+    text-align: center;
+}
+
+html.intro > body > div > div:first-child {
+    font-size: 1.3em;
+}
+
+html.intro > body > div > div:last-child {
+    font-size: 0.8em;
+    font-style: italic;
+}
+
+html.intro > body > div > div:last-child > a {
+    color: black;
+}
+
+/* Tabs */
+
 div.tabs > nav {
     diplay: flex;
     margin-top: -0.4em;
@@ -74,7 +119,7 @@ div.tabs > nav {
 div.tabs > nav > a {
     display: inline-block;
     padding: 0.4em 0;
-    margin-right: 2em;
+    margin-right: 1.4em;
     color: #666;
 }
 

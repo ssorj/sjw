@@ -1,19 +1,37 @@
 ---
-title: Sophie and Justin's wedding
+title: Le mariage de Sophie et Justin
 ---
 
-[Sophie and Justin's wedding](/index.html)
+[Le mariage de Sophie et Justin](/fr/index.html)
 
 # Information
 
 <div class="tabs">
   <nav>
+    <a href="?tab=evenement" class="">Événement</a>
     <a href="?tab=airports" class="">Airports</a>
     <a href="?tab=lodging" class="">Lodging</a>
     <a href="?tab=dining" class="">Dining</a>
   </nav>
+  <div id="evenement" style="display: none;">
 
-  <div id="airports" style="display: inherit;">
+### Calendrier
+
+La cérémonie et la réception auront lieu l'après-midi et le soir du 2
+septembre 2023.
+
+Plus de détails à venir plus tard.
+
+### Lieu
+
+Bishop Farm à Lisbon, New Hampshire
+
+[33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9)
+
+[Site Internet](https://www.bishopfarm.com/)
+
+  </div>
+  <div id="airports" style="display: none;">
 
 ### Manchester (MHT)
 
