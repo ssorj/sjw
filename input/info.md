@@ -1,15 +1,19 @@
-[Home](/index.html)
+---
+title: Sophie and Justin's wedding
+---
 
-# More information
+[Sophie and Justin's wedding](/index.html)
 
-<ul class="toc">
-  <li><a href="#airports">Airports</a></li>
-  <li><a href="#lodging">Lodging</a></li>
-  <li><a href="#restaurants-and-breweries">Restaurants and breweries</a></li>
-  <!-- <li><a href="#activities">Activities</a></li> -->
-</ul>
+# Information
 
-## Airports
+<div class="tabs">
+  <nav>
+    <a href="?tab=airports" class="">Airports</a>
+    <a href="?tab=lodging" class="">Lodging</a>
+    <a href="?tab=restaurants-and-breweries" class="">Restaurants and breweries</a>
+  </nav>
+
+  <div id="airports" style="display: inherit;">
 
 ### Manchester (MHT)
 
@@ -41,18 +45,8 @@ Distance: 156 miles, 2.5-3 hours
 
 [Website](https://www.massport.com/logan-airport)
 
-## Lodging
-
-The Hampton Inn in Littleton, NH is a 10-minute drive from our wedding
-venue.  You will receive 10% off standard rooms (1 king bed or 2 queen
-beds).
-
-If booking online, use discount code 0560061264 (click special rates
-and enter under corporate accounts).
-
-If booking by phone, mention the Desbiens/Ross Wedding.
-
-There are also several AirBnB and VRBO properties in the area.
+  </div>
+  <div id="lodging" style="display: none;">
 
 <!-- ### Bishop Farm -->
 
@@ -64,13 +58,27 @@ There are also several AirBnB and VRBO properties in the area.
 
 ### Hampton Inn Littleton
 
+The Hampton Inn in Littleton, NH is a 10-minute drive from our wedding
+venue.  You will receive 10% off standard rooms (1 king bed or 2 queen
+beds).
+
+If booking online, use discount code 0560061264 (click special rates
+and enter under corporate accounts).
+
+If booking by phone, mention the Desbiens/Ross Wedding.
+
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
 [580 Meadow St, Littleton, NH 03561](https://goo.gl/maps/CgWXhYPPpE5t2T6eA)
 
 [Website](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
 
-## Restaurants and breweries
+### Other options
+
+There are also several AirBnB and VRBO properties in the area.
+
+  </div>
+  <div id="restaurants-and-breweries" style="display: none;">
 
 ### Littleton Freehouse
 
@@ -89,3 +97,6 @@ There are also several AirBnB and VRBO properties in the area.
 [18 Mill St, Littleton, NH 03561](https://goo.gl/maps/JpC8QFYBJqpCb6kdA)
 
 [Website](http://www.schillingbeer.com/)
+
+  </div>
+</div>

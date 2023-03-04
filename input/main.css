@@ -22,9 +22,10 @@
 :root {
     --fg-color-light: #a11d4b;
     --fg-color-dark: #5d7348;
-    /* --bg-color-light: #f1e3d3; */
-    --bg-color-light: #f0ede9;
-    --bg-color-dark: #d4c5c2;
+    --bg-color-light: #f1e3d3;
+    /* --bg-color-light: #f0ede9; */
+    --bg-color-dark: #f1e3d3;
+    /* --bg-color-dark: #d4c5c2; */
 }
 
 body {
@@ -43,12 +44,9 @@ body > div {
 
 h1, h2, h3, h4 {
     font-family: "Arima";
+    font-weight: 600;
     position: relative;
     top: 3pt;
-}
-
-h1 {
-    margin-bottom: 0;
 }
 
 a {
@@ -65,4 +63,31 @@ p:first-child {
 ul.toc {
     list-style-type: none;
     padding: 0;
+}
+
+div.tabs > nav {
+    diplay: flex;
+    margin-top: -0.4em;
+    margin-bottom: 1.6em;
+}
+
+div.tabs > nav > a {
+    display: inline-block;
+    padding: 0.4em 0;
+    margin-right: 2em;
+    color: #666;
+}
+
+div.tabs > nav > a:hover,
+div.tabs > nav > a.selected {
+    border-bottom: 1.5px solid black;
+    color: black;
+}
+
+div.tabs > div {
+    display: none;
+}
+
+div.tabs > div.selected {
+    display: inherit;
 }

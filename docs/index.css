@@ -47,11 +47,11 @@ body > div > * {
     text-align: center;
 }
 
-body > div img {
-    padding: 1.5em 0;
-}
+/* body > div img { */
+/*     padding: 1.5em 0; */
+/* } */
 
 body > div h1 {
     font-size: 1.2em;
-    font-weight: normal;
+    font-weight: 500;
 }
