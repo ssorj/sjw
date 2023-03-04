@@ -372,6 +372,10 @@ class _TemplatePage(_File):
                 f.write(elem)
 
     @property
+    def root_class(self):
+        return self._attributes.get("root_class", "")
+
+    @property
     def extra_headers(self):
         return self._attributes.get("extra_headers", "")
 
@@ -473,6 +477,7 @@ class _WatcherThread:
                 _os.utime(self.site.output_dir)
 
         def render_site(event):
+            self.site.init()
             self.site.render(force=True)
 
         watcher.add_watch(self.site.input_dir, mask, render_file, rec=True, auto_add=True)
