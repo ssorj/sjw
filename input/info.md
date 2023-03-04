@@ -6,7 +6,7 @@
   <li><a href="#airports">Airports</a></li>
   <li><a href="#lodging">Lodging</a></li>
   <li><a href="#restaurants-and-breweries">Restaurants and breweries</a></li>
-  <li><a href="#activities">Activities</a></li>
+  <!-- <li><a href="#activities">Activities</a></li> -->
 </ul>
 
 ## Airports
@@ -89,7 +89,3 @@ There are also several AirBnB and VRBO properties in the area.
 [18 Mill St, Littleton, NH 03561](https://goo.gl/maps/JpC8QFYBJqpCb6kdA)
 
 [Website](http://www.schillingbeer.com/)
-
-## Activities
-
-{{lipsum()}}

@@ -22,7 +22,8 @@
 :root {
     --fg-color-light: #a11d4b;
     --fg-color-dark: #5d7348;
-    --bg-color-light: #f1e3d3;
+    /* --bg-color-light: #f1e3d3; */
+    --bg-color-light: #f0ede9;
     --bg-color-dark: #d4c5c2;
 }
 
@@ -42,6 +43,12 @@ body > div {
 
 h1, h2, h3, h4 {
     font-family: "Arima";
+    position: relative;
+    top: 3pt;
+}
+
+h1 {
+    margin-bottom: 0;
 }
 
 a {
