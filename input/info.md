@@ -2,10 +2,12 @@
 
 # More information
 
-* [Airports](#airports)
-* [Lodging](#lodging)
-* [Restaurants and breweries](#restaurants-and-breweries)
-* [Activities](#activities)
+<ul class="toc">
+  <li><a href="#airports">Airports</a></li>
+  <li><a href="#lodging">Lodging</a></li>
+  <li><a href="#restaurants-and-breweries">Restaurants and breweries</a></li>
+  <li><a href="#activities">Activities</a></li>
+</ul>
 
 ## Airports
 

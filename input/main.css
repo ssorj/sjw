@@ -53,3 +53,9 @@ p:first-child {
     margin-top: 0;
     margin-bottom: 0;
 }
+
+
+ul.toc {
+    list-style-type: none;
+    padding: 0;
+}

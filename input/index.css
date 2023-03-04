@@ -48,5 +48,10 @@ body > div > * {
 }
 
 body > div img {
-    padding: 2em 0;
+    padding: 1.5em 0;
+}
+
+body > div h1 {
+    font-size: 1.2em;
+    font-weight: normal;
 }
