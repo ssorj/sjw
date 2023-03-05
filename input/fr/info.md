@@ -9,8 +9,8 @@ title: Le mariage de Sophie et Justin
 <div class="tabs">
   <nav>
     <a href="?tab=evenement" class="">Événement</a>
-    <a href="?tab=airports" class="">Airports</a>
-    <a href="?tab=lodging" class="">Lodging</a>
+    <a href="?tab=aeroports" class="">Aéroports</a>
+    <a href="?tab=hebergement" class="">Hébergement</a>
   </nav>
   <div id="evenement" style="display: inherit;">
 
@@ -30,51 +30,61 @@ Bishop Farm
 [Site Internet](https://www.bishopfarm.com/)
 
   </div>
-  <div id="airports" style="display: none;">
+  <div id="aeroports" style="display: none;">
 
 ### Manchester (MHT)
 
-Distance: 110 miles, about 2 hours
+Distance: 180 kilomètres, environ 2 heures
 
-[Directions to Bishop Farm](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
+[Comment se rendre au Bishop Farm](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
 
-[Directions to Hampton Inn](https://goo.gl/maps/Nqh89XyJ7HCZnXHd9)
+[Comment se rendre au Hampton Inn](https://goo.gl/maps/Nqh89XyJ7HCZnXHd9)
 
 [Site Internet](https://www.flymanchester.com/)
 
 ### Burlington (BTV)
 
-Distance: 93 miles, about 2 hours
+Distance: 150 kilomètres, environ 2 heures
 
-[Directions to Bishop Farm](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
+[Comment se rendre au Bishop Farm](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
 
-[Directions to Hampton Inn](https://goo.gl/maps/i2SL4g8UKngMtwDTA)
+[Comment se rendre au Hampton Inn](https://goo.gl/maps/i2SL4g8UKngMtwDTA)
 
-[Site Internet](http://www.btv.aero/)
+[Site Internet](https://www.btv.aero/bienvenue-canadiens)
 
 ### Boston (BOS)
 
-Distance: 156 miles, 2.5-3 hours
+Distance: 250 kilomètres, environ 2.5-3 heures
 
-[Directions to Bishop Farm](https://goo.gl/maps/aCSpajfUgmafKoT89)
+[Comment se rendre au Bishop Farm](https://goo.gl/maps/aCSpajfUgmafKoT89)
 
-[Directions to Hampton Inn](https://goo.gl/maps/nZByKLGwckRDQMt86)
+[Comment se rendre au Hampton Inn](https://goo.gl/maps/nZByKLGwckRDQMt86)
 
 [Site Internet](https://www.massport.com/logan-airport)
 
   </div>
-  <div id="lodging" style="display: none;">
+  <div id="hebergement" style="display: none;">
 
-### Hampton Inn Littleton
+### Pour notre famille
 
-The Hampton Inn in Littleton, NH is a 10-minute drive from our wedding
-venue.  You will receive 10% off standard rooms (1 king bed or 2 queen
-beds).
+Nous nous occupons de l'hébergement.  Veuillez nous contacter pour
+tous les détails.
 
-If booking online, use discount code 0560061264 (click special rates
-and enter under corporate accounts).
+### Pour nos amis
 
-If booking by phone, mention the Desbiens/Ross Wedding.
+Le Hampton Inn à Littleton, NH est à 10 minutes en voiture du lieu de
+notre mariage.  Vous recevrez 10% de rabais sur les chambres standard
+(1 lit king ou 2 lits queen).
+
+Si vous réservez en ligne, utilisez le code de réduction 0560061264
+(cliquez sur les tarifs spéciaux et entrez sous les comptes
+d'entreprise)
+
+Si vous réservez par téléphone, mentionnez le mariage Desbiens/Ross.
+
+Il existe également plusieurs propriétés AirBnB et VRBO dans la région.
+
+**Hampton Inn**
 
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
@@ -82,12 +92,8 @@ If booking by phone, mention the Desbiens/Ross Wedding.
 
 [Site Internet](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
 
-### Other options
-
-There are also several AirBnB and VRBO properties in the area.
-
   </div>
-  <div id="dining" style="display: none;">
+  <div id="restaurants" style="display: none;">
 
 ### Littleton Freehouse
 

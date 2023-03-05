@@ -67,7 +67,11 @@ Distance: 156 miles, 2.5-3 hours
   </div>
   <div id="lodging" style="display: none;">
 
-### Hampton Inn Littleton
+### For our family
+
+We are taking care of lodging.  Please contact us for all the details.
+
+### For our friends
 
 The Hampton Inn in Littleton, NH is a 10-minute drive from our wedding
 venue.  You will receive 10% off standard rooms (1 king bed or 2 queen
@@ -78,15 +82,15 @@ and enter under corporate accounts).
 
 If booking by phone, mention the Desbiens/Ross Wedding.
 
+There are also several AirBnB and VRBO properties in the area.
+
+**Hampton Inn**
+
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
 [580 Meadow St, Littleton, NH 03561](https://goo.gl/maps/CgWXhYPPpE5t2T6eA)
 
 [Website](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
-
-### Other options
-
-There are also several AirBnB and VRBO properties in the area.
 
   </div>
   <div id="dining" style="display: none;">
