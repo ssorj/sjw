@@ -84,7 +84,7 @@ If booking by phone, mention the Desbiens/Ross Wedding.
 
 There are also several AirBnB and VRBO properties in the area.
 
-**Hampton Inn**
+Hampton Inn
 
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
