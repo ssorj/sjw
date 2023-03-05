@@ -11,20 +11,19 @@ title: Sophie and Justin's wedding
     <a href="?tab=event" class="">Event</a>
     <a href="?tab=airports" class="">Airports</a>
     <a href="?tab=lodging" class="">Lodging</a>
-    <a href="?tab=dining" class="">Dining</a>
   </nav>
   <div id="event" style="display: none;">
 
 ### Schedule
 
-The ceremony and reception will take place the afternoon and evening
-of September 2nd, 2023.
+The ceremony and reception will take place starting around 4 in the
+afternoon on September 2nd, 2023.
 
-More details to come later.
+Details to come later.
 
 ### Venue
 
-Bishop Farm in Lisbon, New Hampshire
+Bishop Farm
 
 <!-- <p><a href="tel:+1 603-838-2474">603-838-2474</a></p> -->
 
@@ -39,7 +38,7 @@ Bishop Farm in Lisbon, New Hampshire
 
 Distance: 110 miles, about 2 hours
 
-[Directions to venue](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
+[Directions to Bishop Farm](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
 
 [Directions to Hampton Inn](https://goo.gl/maps/Nqh89XyJ7HCZnXHd9)
 
@@ -49,17 +48,17 @@ Distance: 110 miles, about 2 hours
 
 Distance: 93 miles, about 2 hours
 
-[Website](http://www.btv.aero/)
-
-[Directions to venue](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
+[Directions to Bishop Farm](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
 
 [Directions to Hampton Inn](https://goo.gl/maps/i2SL4g8UKngMtwDTA)
+
+[Website](http://www.btv.aero/)
 
 ### Boston (BOS)
 
 Distance: 156 miles, 2.5-3 hours
 
-[Directions to venue](https://goo.gl/maps/aCSpajfUgmafKoT89)
+[Directions to Bishop Farm](https://goo.gl/maps/aCSpajfUgmafKoT89)
 
 [Directions to Hampton Inn](https://goo.gl/maps/nZByKLGwckRDQMt86)
 
@@ -67,14 +66,6 @@ Distance: 156 miles, 2.5-3 hours
 
   </div>
   <div id="lodging" style="display: none;">
-
-<!-- ### Bishop Farm -->
-
-<!-- <p><a href="tel:+1 603-838-2474">603-838-2474</a></p> -->
-
-<!-- [33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9) -->
-
-<!-- [Website](https://www.bishopfarm.com/) -->
 
 ### Hampton Inn Littleton
 

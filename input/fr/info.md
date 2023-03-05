@@ -11,20 +11,19 @@ title: Le mariage de Sophie et Justin
     <a href="?tab=evenement" class="">Événement</a>
     <a href="?tab=airports" class="">Airports</a>
     <a href="?tab=lodging" class="">Lodging</a>
-    <a href="?tab=dining" class="">Dining</a>
   </nav>
-  <div id="evenement" style="display: none;">
+  <div id="evenement" style="display: inherit;">
 
-### Calendrier
+### Horaire
 
-La cérémonie et la réception auront lieu l'après-midi et le soir du 2
-septembre 2023.
+La cérémonie et la réception auront lieu à partir d'environ 16 heures
+le 2 septembre 2023.
 
-Plus de détails à venir plus tard.
+Détails à venir plus tard.
 
 ### Lieu
 
-Bishop Farm à Lisbon, New Hampshire
+Bishop Farm
 
 [33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9)
 
@@ -37,42 +36,34 @@ Bishop Farm à Lisbon, New Hampshire
 
 Distance: 110 miles, about 2 hours
 
-[Directions to venue](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
+[Directions to Bishop Farm](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
 
 [Directions to Hampton Inn](https://goo.gl/maps/Nqh89XyJ7HCZnXHd9)
 
-[Website](https://www.flymanchester.com/)
+[Site Internet](https://www.flymanchester.com/)
 
 ### Burlington (BTV)
 
 Distance: 93 miles, about 2 hours
 
-[Website](http://www.btv.aero/)
-
-[Directions to venue](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
+[Directions to Bishop Farm](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
 
 [Directions to Hampton Inn](https://goo.gl/maps/i2SL4g8UKngMtwDTA)
+
+[Site Internet](http://www.btv.aero/)
 
 ### Boston (BOS)
 
 Distance: 156 miles, 2.5-3 hours
 
-[Directions to venue](https://goo.gl/maps/aCSpajfUgmafKoT89)
+[Directions to Bishop Farm](https://goo.gl/maps/aCSpajfUgmafKoT89)
 
 [Directions to Hampton Inn](https://goo.gl/maps/nZByKLGwckRDQMt86)
 
-[Website](https://www.massport.com/logan-airport)
+[Site Internet](https://www.massport.com/logan-airport)
 
   </div>
   <div id="lodging" style="display: none;">
-
-<!-- ### Bishop Farm -->
-
-<!-- <p><a href="tel:+1 603-838-2474">603-838-2474</a></p> -->
-
-<!-- [33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9) -->
-
-<!-- [Website](https://www.bishopfarm.com/) -->
 
 ### Hampton Inn Littleton
 
@@ -89,7 +80,7 @@ If booking by phone, mention the Desbiens/Ross Wedding.
 
 [580 Meadow St, Littleton, NH 03561](https://goo.gl/maps/CgWXhYPPpE5t2T6eA)
 
-[Website](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
+[Site Internet](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
 
 ### Other options
 
@@ -102,19 +93,19 @@ There are also several AirBnB and VRBO properties in the area.
 
 [28 Cottage St, Littleton, NH 03561](https://goo.gl/maps/ivpUsNJTg3AGfVc66)
 
-[Website](http://www.littletonfreehouse.com/)
+[Site Internet](http://www.littletonfreehouse.com/)
 
 ### Little Grille
 
 [62 Cottage St, Littleton, NH 03561](https://goo.gl/maps/1HXH7wfUpeA8752u6)
 
-[Website](http://thelittlegrille.com/)
+[Site Internet](http://thelittlegrille.com/)
 
 ### Schilling Beer Co.
 
 [18 Mill St, Littleton, NH 03561](https://goo.gl/maps/JpC8QFYBJqpCb6kdA)
 
-[Website](http://www.schillingbeer.com/)
+[Site Internet](http://www.schillingbeer.com/)
 
   </div>
 </div>
