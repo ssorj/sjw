@@ -1,19 +1,27 @@
-<img src="/images/jpf.jpeg" style="width: 30em"/>
+---
+title: Le 50e anniversaire de mariage de France et Jean-Pierre
+root_class: intro
+---
 
-Sophie et Justin
+<img src="/images/jpf.jpeg" style="width: 100%"/>
 
-Pierre-Alexandre et Neelu
-
+<div>
+Sophie et Justin et<br/>
+Pierre-Alexandre et Neelu<br/>
 vous invitent à célébrer
+</div>
 
-le 50e anniversaire de mariage de France et Jean-Pierre
+<div class="big">
+Le 50e anniversaire de mariage de<br/>
+France et Jean-Pierre
+</div>
 
-le vendredi, 1 er septembre 2023
+<div>
+Le vendredi, 1 er septembre 2023<br/>
+lors d’une réception et d’un souper<br/>
+à Littleton au New Hampshire
+</div>
 
-lors d’une réception et d’un souper
+<div>Plus de détails à venir</div>
 
-à Littleton/Franconia au New Hampshire
-
-Plus de détails à venir
-
-*[In English](50th.html)*
+<div><a href="/50th/index.html">In English</a></div>

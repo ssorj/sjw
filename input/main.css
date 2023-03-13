@@ -95,7 +95,7 @@ html.intro > body > div > * {
     text-align: center;
 }
 
-html.intro > body > div > div:first-child {
+html.intro > body > div > div.big {
     font-size: 1.3em;
 }
 
