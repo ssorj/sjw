@@ -12,12 +12,12 @@ vous invitent à célébrer
 </div>
 
 <div class="big">
-Le 50e anniversaire de mariage de<br/>
+Le 50<sup>e</sup> anniversaire de mariage de<br/>
 France et Jean-Pierre
 </div>
 
 <div>
-Le vendredi, 1 er septembre 2023<br/>
+Le vendredi, 1<sup>er</sup> septembre 2023<br/>
 lors d’une réception et d’un souper<br/>
 à Littleton au New Hampshire
 </div>
