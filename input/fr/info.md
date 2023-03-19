@@ -30,7 +30,7 @@ Bishop Farm
 
 [33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9)
 
-[Site Internet](https://www.bishopfarm.com/)
+[Site internet](https://www.bishopfarm.com/)
 
   </div>
   <div id="aeroports" style="display: none;">
@@ -39,31 +39,31 @@ Bishop Farm
 
 Distance: 180 km, 1h45 à 2h
 
-[Comment se rendre au Bishop Farm](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
+[Comment se rendre à Bishop Farm](https://goo.gl/maps/F2vCPuTZGTv3dWDt5)
 
 [Comment se rendre au Hampton Inn](https://goo.gl/maps/Nqh89XyJ7HCZnXHd9)
 
-[Site Internet](https://www.flymanchester.com/)
+[Site internet](https://www.flymanchester.com/)
 
 ### Burlington (BTV)
 
 Distance: 150 km, 1h45 à 2h
 
-[Comment se rendre au Bishop Farm](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
+[Comment se rendre à Bishop Farm](https://goo.gl/maps/3Fi4Y1Vzi98MUiW2A)
 
 [Comment se rendre au Hampton Inn](https://goo.gl/maps/i2SL4g8UKngMtwDTA)
 
-[Site Internet](https://www.btv.aero/bienvenue-canadiens)
+[Site internet](https://www.btv.aero/bienvenue-canadiens)
 
 ### Boston (BOS)
 
 Distance: 250 km, 2h30 à 3h
 
-[Comment se rendre au Bishop Farm](https://goo.gl/maps/aCSpajfUgmafKoT89)
+[Comment se rendre à Bishop Farm](https://goo.gl/maps/aCSpajfUgmafKoT89)
 
 [Comment se rendre au Hampton Inn](https://goo.gl/maps/nZByKLGwckRDQMt86)
 
-[Site Internet](https://www.massport.com/logan-airport)
+[Site internet](https://www.massport.com/logan-airport)
 
   </div>
   <div id="hebergement" style="display: none;">
@@ -75,7 +75,7 @@ tous les détails.
 
 ### Pour nos amis
 
-Le Hampton Inn à Littleton, NH est à 10 minutes en voiture du lieu de
+Le Hampton Inn à Littleton est à 10 minutes en voiture du lieu de
 notre mariage.  Vous recevrez 10% de rabais sur les chambres standard
 (1 lit king ou 2 lits queen).
 
@@ -85,15 +85,17 @@ d'entreprise)
 
 Si vous réservez par téléphone, mentionnez le mariage Desbiens/Ross.
 
-Il existe également plusieurs propriétés AirBnB et VRBO dans la région.
-
-Hampton Inn
+#### Hampton Inn
 
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
 [580 Meadow St, Littleton, NH 03561](https://goo.gl/maps/CgWXhYPPpE5t2T6eA)
 
-[Site Internet](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
+[Site internet](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
+
+#### Autre options
+
+Il existe également plusieurs propriétés AirBnB et VRBO dans la région.
 
   </div>
   <div id="restaurants" style="display: none;">
@@ -102,19 +104,19 @@ Hampton Inn
 
 [28 Cottage St, Littleton, NH 03561](https://goo.gl/maps/ivpUsNJTg3AGfVc66)
 
-[Site Internet](http://www.littletonfreehouse.com/)
+[Site internet](http://www.littletonfreehouse.com/)
 
 ### Little Grille
 
 [62 Cottage St, Littleton, NH 03561](https://goo.gl/maps/1HXH7wfUpeA8752u6)
 
-[Site Internet](http://thelittlegrille.com/)
+[Site internet](http://thelittlegrille.com/)
 
 ### Schilling Beer Co.
 
 [18 Mill St, Littleton, NH 03561](https://goo.gl/maps/JpC8QFYBJqpCb6kdA)
 
-[Site Internet](http://www.schillingbeer.com/)
+[Site internet](http://www.schillingbeer.com/)
 
   </div>
   <div id="registre" style="display: none;">

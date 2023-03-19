@@ -6,7 +6,7 @@ root_class: intro
 <img src="/images/jpf.jpeg" style="width: 100%"/>
 
 <div>
-Sophie et Justin et<br/>
+Sophie et Justin<br/>
 Pierre-Alexandre et Neelu<br/>
 vous invitent à célébrer
 </div>
