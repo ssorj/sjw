@@ -17,8 +17,8 @@ title: Le mariage de Sophie et Justin
 
 ### Horaire
 
-La cérémonie et la réception auront lieu à partir d'environ 16 heures
-le 2 septembre 2023.
+La cérémonie et la réception auront lieu à partir de 16 heures le 2
+septembre 2023.
 
 Tenue de cocktail avec des chaussures confortables pour marcher sur la pelouse.
 
@@ -121,7 +121,7 @@ Il existe également plusieurs propriétés AirBnB et VRBO dans la région.
   </div>
   <div id="registre" style="display: none;">
 
-Votre présence à notre mariage est plus que suffisante. Au lieu de
+Votre présence à notre mariage est très appréciée. Au lieu de
 cadeaux, veuillez envisager de faire un don à l'un de ces organismes
 à but non lucratif:
 
