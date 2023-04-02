@@ -17,12 +17,10 @@ title: Sophie and Justin's wedding
 
 ### Schedule
 
-The ceremony and reception will take place starting around 4 in the
+The ceremony and reception will take place starting at 4 in the
 afternoon on September 2nd, 2023.
 
 Cockail attire with comfortable shoes to walk on the lawn.
-
-Details to come later.
 
 ### Venue
 
@@ -83,9 +81,6 @@ beds).
 If booking online, use the booking link below to get the special rate.
 If booking by phone, mention the Desbiens/Ross wedding.
 
-;; discount code 0560061264 (click special rates
-;; and enter under corporate accounts).
-
 #### Hampton Inn
 
 [Booking link](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=LTNNHHX&corporateCode=0003248610)
@@ -93,9 +88,6 @@ If booking by phone, mention the Desbiens/Ross wedding.
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
 [580 Meadow St, Littleton, NH 03561](https://goo.gl/maps/CgWXhYPPpE5t2T6eA)
-
-[Website](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
-
 
 #### Other options
 

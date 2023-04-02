@@ -22,8 +22,6 @@ septembre 2023.
 
 Tenue de cocktail avec des chaussures confortables pour marcher sur la pelouse.
 
-Détails à venir plus tard.
-
 ### Lieu
 
 Bishop Farm
@@ -90,8 +88,6 @@ mentionnez le mariage Desbiens/Ross.
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
 [580 Meadow St, Littleton, NH 03561](https://goo.gl/maps/CgWXhYPPpE5t2T6eA)
-
-[Site internet](https://www.hilton.com/en/hotels/ltnnhhx-hampton-littleton/)
 
 #### Autre options
 
