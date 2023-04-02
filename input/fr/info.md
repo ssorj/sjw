@@ -79,13 +79,13 @@ Le Hampton Inn à Littleton est à 10 minutes en voiture du lieu de
 notre mariage.  Vous recevrez 10% de rabais sur les chambres standard
 (1 lit king ou 2 lits queen).
 
-Si vous réservez en ligne, utilisez le code de réduction 0560061264
-(cliquez sur les tarifs spéciaux et entrez sous les comptes
-d'entreprise)
-
-Si vous réservez par téléphone, mentionnez le mariage Desbiens/Ross.
+Si vous réservez en ligne, utilisez le lien de réservation ci-dessous
+pour obtenir le tarif spécial.  Si vous réservez par téléphone,
+mentionnez le mariage Desbiens/Ross.
 
 #### Hampton Inn
+
+[Lien de réservation](https://www.hilton.com/en/book/reservation/deeplink/?ctyhocn=LTNNHHX&corporateCode=0003248610)
 
 <p><a href="tel:+1 603-444-0025">603-444-0025</a></p>
 
