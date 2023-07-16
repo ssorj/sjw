@@ -33,7 +33,7 @@ body {
 }
 
 body > div {
-    max-width: 30em;
+    max-width: 34em;
     margin: 0 auto;
     padding: 2em;
     font-family: "Manrope";
@@ -120,6 +120,7 @@ div.tabs > nav > a {
     display: inline-block;
     padding: 0.4em 0;
     margin-right: 1.4em;
+    border-bottom: 1.5px solid var(--bg-color-light);
     color: #666;
 }
 
