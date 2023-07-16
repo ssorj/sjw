@@ -90,12 +90,11 @@ Washington area.  These are all nice places, so doing [the whole
 loop][loop] and making stops as you go is highly recommended.  It's
 about three hours of driving, not counting stops.
 
-[loop]: https://goo.gl/maps/g5EvFoSEhBDP5BiN9
-
 There are several waterfalls along the way. [Lower Falls][lower] is
 right off the highway.  [Sabbaday Falls][sabbaday] is a short hike,
 but it's one of the prettiest in the area.
 
+[loop]: https://goo.gl/maps/g5EvFoSEhBDP5BiN9
 [lower]: https://goo.gl/maps/7fck5Bxjp5XGC3jd6
 [sabbaday]: https://www.alltrails.com/trail/us/new-hampshire/sabbaday-falls
 
