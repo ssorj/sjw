@@ -1,5 +1,28 @@
 Things you might enjoy doing while you are in the area.
 
+In addition to our list,
+[visitwhitemountains.com](https://www.visitwhitemountains.com/) has a
+lot of good info.
+
+### Downtown Littleton
+
+A nice place for walking, dining, and checking out shops.
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2855.1986948546614!2d-71.77580488684754!3d44.30586560985192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb46f320cf4c51f%3A0xe814ab6e55c1c851!2sRiverwalk%20Covered%20Bridge!5e0!3m2!1sen!2sus!4v1689515116150!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Littleton's downtown is excessively charming.  It's New England
+distilled.  Check out the [candy counter][candy], the diners, the old
+mill buildings (which now produce pizza and beer instead of lumber and
+flour), and shops of all kinds.
+
+We recommend going to the covered bridge to see the Ammonoosuc river.
+After you cross to the south, if you turn right and walk for a short
+while, you can cross back to the north over an old, bouncy [suspension
+bridge][bounce] (Justin thinks this is fun).
+
+[candy]: https://goo.gl/maps/xZ3VSgwxNnSNCFwV8
+[bounce]: https://goo.gl/maps/3RobNczzkngUx4UE6
+
 ### Crawford Notch
 
 Many trailheads and views of Mount Washington.
@@ -20,30 +43,13 @@ of Mount Washington proper.
 The [Cog Railway][cog] is a unique kind of train that climbs to the
 top of Mount Washington.  This is really cool.  The views are
 stupendous, and the weather at the top is dynamic!  Bring a jacket,
-even if you think it's warm out.  It's very popular, so plan to get a
-reservation in advance.
+even if you think it's warm out.  It's very popular, so plan to [get
+tickets][tickets] in advance.
 
-[willard]: https://goo.gl/maps/9HUqM1RkWpBhGpCy9
+[willard]: https://www.alltrails.com/trail/us/new-hampshire/mount-willard
 [hotel]: https://goo.gl/maps/wqGG1x9yjPSHKSTH8
 [cog]: https://goo.gl/maps/V98A8FVga6mAEs7HA
-
-### Downtown Littleton
-
-A nice place for walking, dining, and checking out shops.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2855.1986948546614!2d-71.77580488684754!3d44.30586560985192!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb46f320cf4c51f%3A0xe814ab6e55c1c851!2sRiverwalk%20Covered%20Bridge!5e0!3m2!1sen!2sus!4v1689515116150!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-Littleton's downtown is excessively charming.  It's New England
-distilled.  Check out the candy counter, the diners, the old mill
-buildings (which now produce pizza and beer instead of lumber and
-flour), and shops of all kinds.
-
-We recommend going to the covered bridge to see the Ammonoosuc river.
-After you cross to the south, if you turn right and walk for a short
-while, you can cross back to the north over an old, bouncy [suspension
-bridge][bounce] (Justin thinks this is fun).
-
-[bounce]: https://goo.gl/maps/3RobNczzkngUx4UE6
+[tickets]: https://www.thecog.com/
 
 ### Franconia Notch
 
@@ -67,10 +73,10 @@ If you are ambitious, hiking [Franconia Ridge][ridge] is undeniably
 awesome.  It's Sophie's favorite hike in the Whites.  But be warned!
 It's difficult, and it's an all day hike.
 
-[cascade]: https://goo.gl/maps/kRda6HVsHEkcC9JE7
-[lonesome]: https://goo.gl/maps/ziS7nMMw88gYLf6L9
+[cascade]: https://www.alltrails.com/trail/us/new-hampshire/basin-cascade-trail
+[lonesome]: https://www.alltrails.com/trail/us/new-hampshire/lonesome-lake-trail
 [basin]: https://goo.gl/maps/AK8W8pxyCA4fGQX77
-[ridge]: https://goo.gl/maps/c3SJwCiDpverr7d69
+[ridge]: https://www.alltrails.com/trail/us/new-hampshire/mount-lafayette-and-franconia-ridge-trail-loop
 
 ### Kancamagus Highway
 
@@ -80,8 +86,8 @@ A scenic drive with beautiful waterfalls.
 
 Kancamagus Highway runs between Franconia Notch and Crawford Notch,
 going through North Woodstock, Lincoln, North Conway, and the Mount
-Washington area.  These are all nice places, so doing the whole
-[loop][loop] and making stops as you go is highly recommended.  It's
+Washington area.  These are all nice places, so doing [the whole
+loop][loop] and making stops as you go is highly recommended.  It's
 about three hours of driving, not counting stops.
 
 [loop]: https://goo.gl/maps/g5EvFoSEhBDP5BiN9
@@ -91,7 +97,7 @@ right off the highway.  [Sabbaday Falls][sabbaday] is a short hike,
 but it's one of the prettiest in the area.
 
 [lower]: https://goo.gl/maps/7fck5Bxjp5XGC3jd6
-[sabbaday]: https://goo.gl/maps/Nki6A52sxtpS5d168
+[sabbaday]: https://www.alltrails.com/trail/us/new-hampshire/sabbaday-falls
 
 ### Moore Reservoir
 
@@ -100,7 +106,7 @@ A nice place near Littleton to go swimming, kayaking, and hiking.
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d677.0278707929804!2d-71.83814178953985!3d44.33971257514128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb469c7359a0c5b%3A0x2698b19ae28ef330!2sMoore%20Resrvoir%20-%20Dodge%20Hill%20Launch!5e0!3m2!1sen!2sus!4v1689515519354!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 A great spot for [paddle boarding][wmas], [kayaking][nck], or just
-swimming and relaxing.  There's a small picnic area here as well.
+swimming and relaxing.  There's a small picnic area and beach here.
 
 The hike starts near the porta potty.  It's a casual hike that follows
 the edge of the reservoir.
@@ -112,9 +118,27 @@ the edge of the reservoir.
 
 Walking and mountain biking trails right in Littleton.
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6308.515687142627!2d-71.77112455956839!3d44.317257875607226!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb46f92ba8b6c85%3A0x20a5ad7c6a4541aa!2sParker%20Mountain%20Trails%20Parking!5e1!3m2!1sen!2sus!4v1689515647042!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22838.18047856922!2d-71.770221!3d44.314626!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb46f92ba8b6c85%3A0x20a5ad7c6a4541aa!2sParker%20Mountain%20Trails%20Parking!5e0!3m2!1sen!2sus!4v1689532595342!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 This trail system has an entrance next to our house in Littleton, so
 we use it often.
 
 [Website](https://prkrmtn.org/)
+
+### Amusement parks for kids
+
+[Clark's Bears](https://clarksbears.com/)
+
+[Santa's Village](https://www.santasvillage.com/)
+
+[Story Land](https://www.storylandnh.com/)
+
+### A few more places of interest
+
+[Lost River Gorge](https://goo.gl/maps/TP6WiMhDJCSWSH4W7) has neat
+caves that you can squeeze and shimmy through.  Justin loves this.
+
+[Fairbanks Museum](https://goo.gl/maps/vaSMgp4aHVuu9ctS8) in St.
+Johsbury has a nice collection of animal and historical specimens and
+science exhibits.  It's also good for kids, and there are good
+restaurants in the downtown area.

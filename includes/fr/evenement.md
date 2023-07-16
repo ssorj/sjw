@@ -9,6 +9,6 @@ Tenue de cocktail avec des chaussures confortables pour marcher sur la pelouse.
 
 Bishop Farm
 
-[33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9)
+[33 Bishop Cutoff, Lisbon, NH](https://goo.gl/maps/kujRwqkbwYT615fv9)
 
 [Site internet](https://www.bishopfarm.com/)

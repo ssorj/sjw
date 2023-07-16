@@ -23,7 +23,7 @@ Who, what, here?  Really good Latin American food.
 
 ### Rek-Lis Brewing Company
 
-Good beer and pub food.  They have a nice brunch.
+Good beer and pub food.  They have a nice Sunday brunch.
 
 [2085 Main St, Bethlehem](https://goo.gl/maps/kfsmL2sts7vj8n7y8)
 

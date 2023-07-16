@@ -11,6 +11,6 @@ Bishop Farm
 
 <!-- <p><a href="tel:+1 603-838-2474">603-838-2474</a></p> -->
 
-[33 Bishop Cutoff, Lisbon, NH 03585](https://goo.gl/maps/kujRwqkbwYT615fv9)
+[33 Bishop Cutoff, Lisbon, NH](https://goo.gl/maps/kujRwqkbwYT615fv9)
 
 [Website](https://www.bishopfarm.com/)
