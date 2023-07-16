@@ -11,7 +11,7 @@ Notre restaurant gastronomique préféré à Littleton.
 
 [2 W Main St, Littleton](https://goo.gl/maps/RzPs9aSifHBUSSFu9)
 
-[Site Internet](https://www.thebealhouseinn.com/)
+[Site internet](https://www.thebealhouseinn.com/)
 
 ### The Coffee Pot
 
@@ -20,17 +20,17 @@ l'intérieur.
 
 [30 Main St, Littleton](https://goo.gl/maps/sfBPNfLiQV2rNpj89)
 
-[Site Internet](http://thecoffeepotrestaurant.com/)
+[Site internet](http://thecoffeepotrestaurant.com/)
 
 ### Jack & Fin's
 
-Oh boy J'aime leurs sandwichs au fromage grillé. Aussi, des cupcakes,
-si vous aimez ce genre de choses. Wildbloom Beer est à l'étage dans le
-même bâtiment (indice).
+Oh boy! J'aime leurs grilled cheese. Ils font aussi des cupcakes
+originaux. Wildbloom Beer est à au 2e étage dans le même bâtiment si
+vous voulez accompagner votre repas d'une bière.
 
 [42 Main St, Littleton](https://goo.gl/maps/xVYEbDGxQtkwVUVQ9)
 
-[Site Internet](http://www.jackandfins.com/)
+[Site internet](http://www.jackandfins.com/)
 
 ### Little Grille
 
@@ -38,17 +38,17 @@ Cuisine brésilienne, hamburgers et le meilleur Tex-Mex de Littleton.
 
 [62 Cottage St, Littleton](https://goo.gl/maps/1HXH7wfUpeA8752u6)
 
-[Site Internet](https://www.facebook.com/thelittlegrille/)
+[Site internet](https://www.facebook.com/thelittlegrille/)
 
 ### Littleton Diner
 
-Un dîner classique. Leur hachis de corned-beef est le meilleur de la
-ville. Leurs galettes de sarrasin et de blé entier sont également très
+Un diner classique. Leur hachis de corned-beef est le meilleur de la
+ville. Leurs Crêpes au sarrasin et de blé entier sont également très
 bonnes.
 
 [145 Main St, Littleton](https://goo.gl/maps/fhpKP3DjNATxz7cm7)
 
-[Site Internet](http://www.littletondiner.com/)
+[Site internet](http://www.littletondiner.com/)
 
 ### Littleton Freehouse
 
@@ -57,7 +57,7 @@ bonnes salades.
 
 [28 Cottage St, Littleton](https://goo.gl/maps/ivpUsNJTg3AGfVc66)
 
-[Site Internet](http://www.littletonfreehouse.com/)
+[Site internet](http://www.littletonfreehouse.com/)
 
 ### Schilling Beer Co.
 
@@ -65,7 +65,7 @@ Très bonne bière de style européen et excellente pizza.
 
 [18 Mill St, Littleton](https://goo.gl/maps/JpC8QFYBJqpCb6kdA)
 
-[Site Internet](http://www.schillingbeer.com/)
+[Site internet](http://www.schillingbeer.com/)
 
 ### Taste the Thai
 
@@ -73,7 +73,7 @@ La meilleure cuisine thaïlandaise de tout le comté.
 
 [406 Union St, Littleton](https://goo.gl/maps/cEDpQwgWf6FnkgNA9)
 
-[Site Internet](http://www.tastethethaiandsushihouse.com/)
+[Site internet](http://www.tastethethaiandsushihouse.com/)
 
 ### Timbir Alley
 
@@ -82,21 +82,21 @@ particulièrement leur pâté fumé.
 
 [7 Main St, Littleton](https://goo.gl/maps/DDqr2MxLYfLEJc69A)
 
-[Site Internet](http://travelers-gourmet.com/)
+[Site internet](http://travelers-gourmet.com/)
 
 ### Wildbloom Beer
 
-Très bonne (et inventive) bière ici. Ils n'offrent pas de nourriture,
+Très bonne et inventive bière locale. Ils n'offrent pas de nourriture,
 mais Jack & Fin's est en bas et vous pouvez apporter votre nourriture.
 
 [42 Main St 2nd Floor, Littleton](https://goo.gl/maps/tGBCEYjDYbi1Yqym6)
 
-[Site Internet](https://www.yelp.com/biz/wildbloom-beer-littleton)
+[Site internet](https://www.yelp.com/biz/wildbloom-beer-littleton)
 
 ## Bethlehem
 
-Bethlehem est un petit endroit avec un nombre surprenant d'options de
-restauration de haute qualité.
+Bethlehem est un petit village avec un nombre surprenant de
+restaurants de haute qualité.
 
 ### Cold Mountain Cafe
 
@@ -104,7 +104,7 @@ Cuisine raffinée avec de bons plats végétariens et de bons cocktails.
 
 [2015 Main St, Bethlehem](https://goo.gl/maps/5wqMuVXC3oLyB8NC8)
 
-[Site Internet](https://www.coldmountaincafe.com/)
+[Site internet](https://www.coldmountaincafe.com/)
 
 ### El Mirador
 
@@ -112,7 +112,7 @@ Qui, quoi, ici ? Très bonne cuisine latino-américaine.
 
 [1901 Main St, Bethlehem](https://goo.gl/maps/bs8yrnnbboFN5iWx8)
 
-[Site Internet](https://www.facebook.com/ELMIRADORRESTARAUNTENH/menu)
+[Site internet](https://www.facebook.com/ELMIRADORRESTARAUNTENH/menu)
 
 ### Rek-Lis Brewing Company
 
@@ -120,30 +120,30 @@ Bonne bière et nourriture de pub. Ils ont un bon brunch du dimanche.
 
 [2085 Main St, Bethlehem](https://goo.gl/maps/kfsmL2sts7vj8n7y8)
 
-[Site Internet](https://www.reklisbrewing.com/)
+[Site internet](https://www.reklisbrewing.com/)
 
 ### Rosa Flamingos
 
-Malgré ce que son nom l'indique, c'est de la cuisine italienne. Ils
-ont un joli patio. Justin aime particulièrement la côtelette de porc
-saumurée au cidre ici.
+Malgré son nom, c'est c’est bien un restaurant italien. Ils ont un
+joli patio. Justin aime particulièrement la côtelette de porc au cidre
+de pomme.
 
 [2312 Main Street, Bethlehem](https://goo.gl/maps/Lbai948Rk8gJSKCE7)
 
-[Site Internet](https://rosaflamingosrestaurant.com/)
+[Site internet](https://rosaflamingosrestaurant.com/)
 
 ### Super Secret Ice Cream
 
-Les meilleures glaces de la région.
+La meilleure crème glacée de la région.
 
 [2213 Main St, Bethlehem](https://goo.gl/maps/G8dLHMpWg3ZkhZ3R9)
 
-[Site Internet](http://supersecreticecream.com/)
+[Site internet](http://supersecreticecream.com/)
 
 ## Franconia and Sugar Hill
 
-La Franconie a un beau sentier pédestre le long de la rivière. Sugar
-Hill offre une belle vue sur les montagnes.
+Franconia a un beau sentier pédestre le long de la rivière. Sugar Hill
+offre une belle vue sur les montagnes.
 
 ### Chef Joe's Catering
 
@@ -151,15 +151,15 @@ Délicieux barbecue et fruits de mer, et les cocktails sont excellents.
 
 [651 Main St, Franconia](https://goo.gl/maps/WZcR2uiwvoDFxnr2A)
 
-[Site Internet](https://chefjoescatering.com/the-bistro/bistro-menu/)
+[Site internet](https://chefjoescatering.com/the-bistro/bistro-menu/)
 
 ### Iron Furnace Brewing
 
-Une très belle adresse pour déjeuner.
+Un bon restaurant pour le dîner.
 
 [115 Main St, Franconia](https://goo.gl/maps/diTt6G3BQiqrPFww6)
 
-[Site Internet](http://ironfurnacebrewing.com/)
+[Site internet](http://ironfurnacebrewing.com/)
 
 ### Polly's Pancake Parlor
 
@@ -168,4 +168,4 @@ d'ici sont également belles.
 
 [672 Sugar Hill Rd, Sugar Hill](https://goo.gl/maps/tcnksnWReUiwHtn1A)
 
-[Site Internet](http://www.pollyspancakeparlor.com/)
+[Site internet](http://www.pollyspancakeparlor.com/)

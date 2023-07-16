@@ -23,6 +23,23 @@ bridge][bounce] (Justin thinks this is fun).
 [candy]: https://goo.gl/maps/xZ3VSgwxNnSNCFwV8
 [bounce]: https://goo.gl/maps/3RobNczzkngUx4UE6
 
+### The Littleton area
+
+[Moore Reservoir][moore] is a nice place near Littleton to get in the
+water or go hiking.  It's a great spot for [paddle boarding][wmas],
+[kayaking][nck], or just swimming and relaxing.  There's a small
+picnic area and beach here.  The hike starts near the porta potty.
+It's a casual hike that follows the edge of the reservoir.
+
+[Parker Mountain Trails][parker] offers walking and mountain biking
+trails right in Littleton.  This trail system has an entrance next to
+our house in Littleton, so we use it often.
+
+[moore]: https://goo.gl/maps/fTLTBz8nEJ6cPYUg8
+[wmas]: https://www.whitemountainadventuresports.com/
+[nck]: https://northcountrykayak.com/
+[parker]: https://prkrmtn.org/
+
 ### Crawford Notch
 
 Many trailheads and views of Mount Washington.
@@ -36,9 +53,9 @@ in the south), and Crawford Notch is a great one.
 with an excellent view.
 
 The [Mount Washington Hotel][hotel] is nearby.  It's big, old, and
-beautiful.  We suggest exploring inside (check out the speakeasy) and
-then getting lunch at the pub in the basement.  It has terrific views
-of Mount Washington proper.
+beautiful.  We suggest [exploring inside][guide] (check out the
+speakeasy) and then getting lunch at the pub in the basement.  It has
+terrific views of Mount Washington proper.
 
 The [Cog Railway][cog] is a unique kind of train that climbs to the
 top of Mount Washington.  This is really cool.  The views are
@@ -48,6 +65,7 @@ tickets][tickets] in advance.
 
 [willard]: https://www.alltrails.com/trail/us/new-hampshire/mount-willard
 [hotel]: https://goo.gl/maps/wqGG1x9yjPSHKSTH8
+[guide]: https://www.brettonwoods.com/~/media/BrettonWoods/pdfs/OMWR%20WalkingTour%20Guide.pdf
 [cog]: https://goo.gl/maps/V98A8FVga6mAEs7HA
 [tickets]: https://www.thecog.com/
 
@@ -97,32 +115,6 @@ but it's one of the prettiest in the area.
 [loop]: https://goo.gl/maps/g5EvFoSEhBDP5BiN9
 [lower]: https://goo.gl/maps/7fck5Bxjp5XGC3jd6
 [sabbaday]: https://www.alltrails.com/trail/us/new-hampshire/sabbaday-falls
-
-### Moore Reservoir
-
-A nice place near Littleton to go swimming, kayaking, and hiking.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d677.0278707929804!2d-71.83814178953985!3d44.33971257514128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb469c7359a0c5b%3A0x2698b19ae28ef330!2sMoore%20Resrvoir%20-%20Dodge%20Hill%20Launch!5e0!3m2!1sen!2sus!4v1689515519354!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-A great spot for [paddle boarding][wmas], [kayaking][nck], or just
-swimming and relaxing.  There's a small picnic area and beach here.
-
-The hike starts near the porta potty.  It's a casual hike that follows
-the edge of the reservoir.
-
-[wmas]: https://www.whitemountainadventuresports.com/
-[nck]: https://northcountrykayak.com/
-
-### Parker Mountain Trails
-
-Walking and mountain biking trails right in Littleton.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22838.18047856922!2d-71.770221!3d44.314626!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb46f92ba8b6c85%3A0x20a5ad7c6a4541aa!2sParker%20Mountain%20Trails%20Parking!5e0!3m2!1sen!2sus!4v1689532595342!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-This trail system has an entrance next to our house in Littleton, so
-we use it often.
-
-[Website](https://prkrmtn.org/)
 
 ### Amusement parks for kids
 
