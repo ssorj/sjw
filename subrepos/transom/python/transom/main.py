@@ -500,6 +500,9 @@ class _WatcherThread:
         watcher.add_watch(self.site.input_dir, mask, render_file, rec=True, auto_add=True)
         watcher.add_watch(self.site.config_dir, mask, render_site, rec=True, auto_add=True)
 
+        # XXX
+        watcher.add_watch("includes", mask, render_site, rec=True, auto_add=True)
+
         self.notifier = _pyinotify.ThreadedNotifier(watcher)
 
     def start(self):
