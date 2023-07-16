@@ -1,10 +1,11 @@
+
 Choses que vous pourriez aimer faire pendant que vous êtes dans la région.
 
 En plus de notre liste, visitez
 [visitwhitemountains.com][https://www.visitwhitemountains.com/] pour
 plus d’information.
 
-### Downtown Littleton
+### Centre-ville de Littleton
 
 Un endroit agréable pour se promener, manger et magasiner.
 
@@ -23,6 +24,24 @@ et marchez un peu, vous pouvez retraverser vers le nord sur un vieux
 
 [candy]: https://goo.gl/maps/xZ3VSgwxNnSNCFwV8
 [bounce]: https://goo.gl/maps/3RobNczzkngUx4UE6
+
+### La région de Littleton
+
+[Moore Reservoir][moore] set un bel endroit près de Littleton pour
+nager, faire du kayak et de la randonnée.  Un endroit idéal pour faire
+du [surf à pagaie][wmas], [du kayak][nck] ou simplement nager et se
+détendre. Il y a une petite aire de pique-nique et une plage tout près
+du stationnement.  La randonnée commence près de la toilette chimique. C'est une
+randonnée facile qui suit le bord du réservoir.
+
+[Parker Mountain Trails][parker] propose sentiers de marche et de vélo
+de montagne à Littleton.  Ce réseau de sentiers a une entrée à côté de
+notre maison à Littleton, nous l'utilisons donc souvent.
+
+[moore]: https://goo.gl/maps/fTLTBz8nEJ6cPYUg8
+[wmas]: https://www.whitemountainadventuresports.com/
+[nck]: https://northcountrykayak.com/
+[parker]: https://prkrmtn.org/
 
 ### Crawford Notch
 
@@ -104,34 +123,6 @@ randonnée, mais c'est l'une des plus belles chutes de la région.
 [loop]: https://goo.gl/maps/g5EvFoSEhBDP5BiN9
 [lower]: https://goo.gl/maps/7fck5Bxjp5XGC3jd6
 [sabbaday]: https://www.alltrails.com/trail/us/new-hampshire/sabbaday-falls
-
-### Moore Reservoir
-
-Un bel endroit près de Littleton pour nager, faire du kayak et de la
-randonnée.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d677.0278707929804!2d-71.83814178953985!3d44.33971257514128!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb469c7359a0c5b%3A0x2698b19ae28ef330!2sMoore%20Resrvoir%20-%20Dodge%20Hill%20Launch!5e0!3m2!1sen!2sus!4v1689515519354!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-Un endroit idéal pour faire du [surf à pagaie][wmas], [du kayak][nck]
-ou simplement nager et se détendre. Il y a une petite aire de
-pique-nique et une plage tout près du stationnement.
-
-La randonnée commence près de la toilette chimique. C'est une
-randonnée facile qui suit le bord du réservoir.
-
-[wmas]: https://www.whitemountainadventuresports.com/
-[nck]: https://northcountrykayak.com/
-
-### Parker Mountain Trails
-
-Sentiers de marche et de vélo de montagne à Littleton.
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d22838.18047856922!2d-71.770221!3d44.314626!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cb46f92ba8b6c85%3A0x20a5ad7c6a4541aa!2sParker%20Mountain%20Trails%20Parking!5e0!3m2!1sen!2sus!4v1689532595342!5m2!1sen!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-Ce réseau de sentiers a une entrée à côté de notre maison à Littleton,
-nous l'utilisons donc souvent.
-
-[Site internet](https://prkrmtn.org/)
 
 ### Parcs d'attractions pour enfants
 
