@@ -2,7 +2,7 @@
 Choses que vous pourriez aimer faire pendant que vous êtes dans la région.
 
 En plus de notre liste, visitez
-[visitwhitemountains.com][https://www.visitwhitemountains.com/] pour
+[visitwhitemountains.com](https://www.visitwhitemountains.com/) pour
 plus d’information.
 
 ### Centre-ville de Littleton
