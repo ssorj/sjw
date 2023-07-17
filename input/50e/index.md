@@ -17,11 +17,10 @@ France et Jean-Pierre
 </div>
 
 <div>
-Le vendredi, 1<sup>er</sup> septembre 2023<br/>
-lors d’une réception et d’un souper<br/>
-à Littleton au New Hampshire
+18h00 le vendredi, 1<sup>er</sup> septembre 2023<br/>
+lors d’une réception et d’un souper à<br/>
+<a href="https://goo.gl/maps/gAC8FEPLmvAymRxN9">Beal House<br/>
+2 W Main St, Littleton</a>
 </div>
-
-<div>Plus de détails à venir</div>
 
 <div><a href="/50th/index.html">In English</a></div>
