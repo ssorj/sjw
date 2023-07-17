@@ -17,7 +17,7 @@ France and Jean-Pierre
 </div>
 
 <div>
-6:00 PM Friday, September 1st, 2023<br/> with a reception and dinner at<br/>
+Friday, September 1st, 2023 at 6:00 PM<br/> with a reception and dinner at<br/>
 <a href="https://goo.gl/maps/gAC8FEPLmvAymRxN9">Beal House<br/>
 2 W Main St, Littleton</a>
 </div>
