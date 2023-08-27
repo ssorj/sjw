@@ -23,4 +23,21 @@ lors d’une réception et d’un souper à<br/>
 2 W Main St, Littleton</a>
 </div>
 
+<div>
+Une navette sera disponible depuis Bishop Farm<br/>
+et Hampton Inn jusqu'à Beal House.
+</div>
+
+<div>
+Bishop Farm : Rendez-vous à la ferme à 17h20.<br/>
+La navette partira à 17h30.<br/>
+Les trajets retours seront disponibles à 20h et 21h.
+</div>
+
+<div>
+Hampton Inn : Rendez-vous dans l’entrée de l’hôtel à 17h45.<br/>
+La navette arrivera entre 17h45 et 18h00.<br/>
+Les trajets de retours seront disponibles à 20h et 21h.
+</div>
+
 <div><a href="/50th/index.html">In English</a></div>
